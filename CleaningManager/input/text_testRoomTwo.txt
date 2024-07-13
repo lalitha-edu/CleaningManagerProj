@@ -1,0 +1,9 @@
+ROOM_ID,LENGTH,WIDTH
+Home Office,12,10
+Library,14,12
+Game Room,16,18
+Study,13,11
+Home Gym,20,15
+Media Room,18,20
+Den,14,13
+Attic,12,10
